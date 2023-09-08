@@ -5,6 +5,8 @@ public class VeryBadCode {
             int x = 5;
             int y = 10;
             String Liggyldighed;
+            String enduflerefails;
+            int stupid;
 
 
             System.out.println("The sum of x and y is maybe or not: " + add(x, y));
